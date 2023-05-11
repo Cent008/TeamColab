@@ -2,10 +2,10 @@ package utils;
 
 public class mailUtils {
 
-    public void coolMethod(){
+    public static void coolMethod(){
 
     }
-    public void  otherCoolMethod(){
+    public static void  otherCoolMethod(){
 
     }
 }
